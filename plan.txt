@@ -6,3 +6,11 @@ Main
     SKILLS AND EXPERIENCE
     CONTACT US
 footer
+
+
+
+
+ABOUT
+left--> image
+right--> text
+below image>> Experience
